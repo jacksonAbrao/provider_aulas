@@ -48,7 +48,7 @@ class ProviderPage extends StatelessWidget {
                     ),
                   ],
                 ),
-                ProdutoWidget(),
+                const ProdutoWidget(),
               ],
             ),
           ),
